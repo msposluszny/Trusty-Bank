@@ -4,9 +4,9 @@ TrustyBank is a program designed to simulate, sometimes very realistically and s
 This README focuses on the TrustyBank class, as I wanted to keep the documentation concise. The Client class is straightforward, so I didn’t find it necessary to include it in detail. I hope my descriptions help convey a clear picture of how the program works, and to make this process as smooth as possible, I have also recorded a YouTube video where I demonstrate the program in action: <link>
 
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 CLASS TrustyBank
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 LIST OF MOST IMPORTANT FUNCTIONS:
 1. Constructor
 2. validateInput(const QString& input, const QString& type)
