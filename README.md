@@ -5,8 +5,11 @@ This README focuses on the TrustyBank class, as I wanted to keep the documentati
 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 CLASS TrustyBank
+
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 LIST OF MOST IMPORTANT FUNCTIONS:
 1. Constructor
 2. validateInput(const QString& input, const QString& type)
@@ -39,7 +42,8 @@ LIST OF MOST IMPORTANT FUNCTIONS:
 
 
 *****************************************************************************************************************
-Constructor *****************************************************************************************************************
+Constructor 
+*****************************************************************************************************************
 
 The TrustyBank class constructor initializes several standard components, including the `clientsGenerated` bool variable, set to false initially. This variable controls whether the `generateClients()` function should generate new clients.
 
